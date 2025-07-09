@@ -1,5 +1,5 @@
 [{
-  "id":1,
+  "id":"1",
   "class": "Class 1",
   "subject": "Math",
   "book_name": "Mathe 1",
@@ -9,7 +9,7 @@
   "thumbnail": "https://upload.wikimedia.org/wikipedia/en/f/fb/Le_Livre_d%27image.png"
 },
 {
-  "id":2,
+  "id":"2",
   "class": "Class 2",
   "subject": "English ",
   "book_name": "ranbow ",
@@ -19,7 +19,7 @@
   "thumbnail": "https://images.unsplash.com/photo-1682235336380-f6ccad180553?fm=jpg&q=60&w=3000&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Ymx1ZSUyMGJvb2tzfGVufDB8fDB8fHww"
 },
 {
-   "id":3,
+   "id":"3",
   "class": "Class 3",
   "subject": "Science",
   "book_name": "Science 2",
