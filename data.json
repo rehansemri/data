@@ -1,0 +1,27 @@
+[{
+  "class": "Class 1",
+  "subject": "Math",
+  "book_name": "Mathe 1",
+  "language": "Hindi",
+  "board": "NCERT",
+  "file_url": "https://www.fsa.usda.gov/Internet/FSA_File/tech_assist.pdf",
+  "thumbnail": "https://upload.wikimedia.org/wikipedia/en/f/fb/Le_Livre_d%27image.png"
+},
+{
+  "class": "Class 2",
+  "subject": "English ",
+  "book_name": "ranbow ",
+  "language": "English",
+  "board": "NCERT",
+  "file_url": "https://upsc.gov.in/sites/default/files/QP_CS_Pre_Exam_2023_280523.pdf",
+  "thumbnail": "https://images.unsplash.com/photo-1682235336380-f6ccad180553?fm=jpg&q=60&w=3000&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Ymx1ZSUyMGJvb2tzfGVufDB8fDB8fHww"
+},
+{
+  "class": "Class 3",
+  "subject": "Science",
+  "book_name": "Science 2",
+  "language": "English",
+  "board": "NCERT",
+  "file_url": "https://aktu.ac.in/pdf/syllabus/Syllabus1617/M.Tech/M.Tech.%20Computer%20Science%20&%20Engineering%20(Effective%20from%20the%20Session-%202016-17).pdf",
+  "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoxyyenY15RiElzkibErC05UqPzdbV0EikTtRNVy4iTCy6i6gW33gIxfDDK8b4VPiYw5w&usqp=CAU"
+}]
