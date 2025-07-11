@@ -2,7 +2,7 @@
   "books":[
   {
     "id": "1",
-    "className": "Class0I",
+    "className": "Class 1",
     "subject": "English",
     "bookName": "Marigold",
     "language": "English",
@@ -24,7 +24,7 @@
   },
   {
     "id": "2",
-    "className": "Class0I",
+    "className": "Class 1",
     "subject": "English",
     "bookName": "Raindrops",
     "language": "English",
@@ -55,7 +55,7 @@
   },
   {
     "id": "3",
-    "className": "Class0I",
+    "className": "Class 1",
     "subject": "Hindi",
     "bookName": "Rimjhim",
     "language": "English",
@@ -90,9 +90,9 @@
   },
   {
     "id": "4",
-    "className": "Class",
-    "subject": "III",
-    "bookName": "English_Marigold",
+    "className": "Class 3",
+    "subject": "English",
+    "bookName": "Marigold",
     "language": "English",
     "board": "NCERT",
     "folder": "Class_III_English_Marigold",
@@ -112,10 +112,10 @@
   },
   {
     "id": "5",
-    "className": "Class",
-    "subject": "III",
-    "bookName": "Environmental_Studies_Aas-Pass(urdu)",
-    "language": "English",
+    "className": "Class 3",
+    "subject": "Environmental Studies ",
+    "bookName": "Aas Pass",
+    "language": "urdu",
     "board": "NCERT",
     "folder": "Class_III_Environmental_Studies_Aas-Pass(urdu)",
     "files": [
@@ -148,10 +148,10 @@
   },
   {
     "id": "6",
-    "className": "Class",
-    "subject": "III",
-    "bookName": "Environmental_Studies_Aas-Pass",
-    "language": "English",
+    "className": "Class 3",
+    "subject": "Environmental Studies",
+    "bookName": "Aas Pass",
+    "language": "Hindi",
     "board": "NCERT",
     "folder": "Class_III_Environmental_Studies_Aas-Pass",
     "files": [
@@ -184,9 +184,9 @@
   },
   {
     "id": "7",
-    "className": "Class",
-    "subject": "III",
-    "bookName": "Environmental_Studies_Looking_Around",
+    "className": "Class 3",
+    "subject": "Environmental Studies",
+    "bookName": "Looking_Around",
     "language": "English",
     "board": "NCERT",
     "folder": "Class_III_Environmental_Studies_Looking_Around",
