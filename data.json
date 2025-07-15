@@ -1,6 +1,17 @@
 {"baseUrl":"https://pub-6f58ce2c173542c6ae4695938da98377.r2.dev",
   "books":[
-  {
+   {
+    "id": "371",
+    "className": "IIT JEE Advanced",
+    "subject": "Papers",
+    "bookName": "IIT JEE Advanced",
+    "language": "English Hindi",
+    "board": "IIT JEE",
+    "folder": "IIT_JEE_ADVANCE_PAPERS",
+    "files": [
+      "2007_1.pdf"
+    ]
+  },{
     "id": "1",
     "className": "Class 1",
     "subject": "English",
