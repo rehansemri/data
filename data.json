@@ -1,6 +1,6 @@
 {"baseUrl":"https://pub-6f58ce2c173542c6ae4695938da98377.r2.dev",
   "books":[
-    {
+ /*   {
     "id": "372",
     "className": "Papers",
     "subject": "Solved Papers",
@@ -46,7 +46,7 @@
         "AIPMT_2006_PRE.pdf",
         "AIPMT_2005_PRE.pdf"
     ]
-},
+}, */
    {
     "id": "371",
     "className": "Papers",
